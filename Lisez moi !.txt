@@ -1,8 +1,0 @@
-(Premièrement désolé pour le code si peu commenté...)
-
-Version fonctionnelle à améliorer
-Fonctionne avec des fichiers créés pour chaque sous texte comme dit dans l'énoncé de votre TP mais à modifier
-car dans le cas où la clef n'est pas trouvée directement une grande quantité de fichiers vient plomber le disque !
-(+ Modifier le système pour trouver le bon sous texte avec le bon indice de coincidence, 
-et comme ce système n'est pas fiable à 100% proposer de "continuer" la recherche si la clef proposée ne semble pas correspondre
-dans les faits !
